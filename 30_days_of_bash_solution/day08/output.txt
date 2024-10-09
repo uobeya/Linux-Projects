@@ -1,0 +1,8 @@
+.
+..
+execute_a_command_direct_output_to_file_and_screen.sh
+number_list.txt
+output.txt
+read_number-list_from_file_sort_write_to_new_file.sh
+sorted_numbers.txt
+takes-users-input-append-to-file.sh
