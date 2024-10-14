@@ -1,0 +1,2 @@
+
+Here is a simple Bash script that uses the sed command to swap the first and second words of each line in a file:
