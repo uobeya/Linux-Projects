@@ -1,0 +1,4 @@
+Alice 45
+Bob 60
+Charlie 30
+Diana 80
